@@ -1,0 +1,1 @@
+# SmartGoldFastScalper2.mq5
